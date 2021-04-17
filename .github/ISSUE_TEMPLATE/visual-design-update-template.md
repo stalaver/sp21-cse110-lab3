@@ -7,24 +7,24 @@ assignees: stalaver
 
 ---
 
-##What is the issue?
+## What is the issue?
 1.
 2.
 3.
 
-##What needs to be updated?
+## What needs to be updated?
 1.
 2.
 3.
 
-##What would we use to update?
+## What would we use to update?
 1.
 2.
 3.
 
-##How are we going to update?
+## How are we going to update?
 1.
 2.
 3.
 
-##Timeframe for updates?
+## Timeframe for updates?
